@@ -3,8 +3,8 @@ const client = new Discord.Client();
 console.log("Welcome Again !");
 const Discord = require('discord.js');
 const devs = ['389090790984515594','350408440566382592'];
-var prefix = "!";
-const adminprefix = "!"
+var prefix = "1";
+const adminprefix = "1"
 const db = require('quick.db');
 const client = new Discord.Client();   
 const giphy = require('giphy-api')();    
